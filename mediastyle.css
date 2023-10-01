@@ -1,0 +1,29 @@
+
+/* @media(max-width:500px){
+    h1{
+        background-color: blue;
+        color: aliceblue;
+    }
+}
+
+@media(min-width:900px){
+    h1{
+        background-color: gray;
+    }
+}
+@media(width:501px){
+    h1{
+        background-color: red;
+    }
+} */
+@media (min-width: 200px) and (max-width: 300px){
+    h1{
+        background-color: fuchsia;
+    }
+}
+@media (orientation:landscape){
+    h1{
+        background-color: cyan;
+        color: brown;
+    }
+}
